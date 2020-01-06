@@ -3290,7 +3290,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 2
-  m_LinearDrag: 5
+  m_LinearDrag: 3
   m_AngularDrag: 0.05
   m_GravityScale: 5
   m_Material: {fileID: 0}
@@ -3696,7 +3696,7 @@ MonoBehaviour:
   sayStart: "\u4F60\u53EF\u4EE5\u5E6B\u6211\u8490\u96C6\u5341\u500B\u9583\u5149\u55CE"
   sayNotComplete: "\u9084\u6C92\u627E\u5230\u5341\u500B\u9583\u5149\u5594"
   sayComplete: "\u611F\u8B1D\u627E\u5230\u9583\u5149!!!"
-  speed: 0.13
+  speed: 0.005
   soundSay: {fileID: 0}
   complete: 0
   countPlayer: 0
