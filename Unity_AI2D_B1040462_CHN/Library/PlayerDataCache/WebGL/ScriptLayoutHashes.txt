@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-C:/Users/User/Downloads/TUMT_Unity_AI2D_B1040462_CHN-master/Web
+C:/Users/User/Desktop/TUMT_Unity_AI2D_B1040462_CHN/Web
 SceneListBegin?
 Assets/首頁.unity
 Assets/遊戲.unity
